@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend$
 - 💞️ I’m looking to collaborate on NewProjects()
 - 📫 How to reach me telegram: @Genius3080
-- 😄 Pronouns: ¯\_(ツ)_/¯
+- 😄 Pronouns: :D
 - ⚡ Fun fact: You can't escape from Ohio
 
 <!---
